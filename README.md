@@ -53,12 +53,11 @@ Every course has notes, practice, AI mind maps of each lesson and a free certifi
 
 ### 📺 Latest on YouTube
 
-<!-- YOUTUBE:START -->
-- [01. SQL Full Course Syllabus in Hindi](https://www.youtube.com/watch?v=6mXCMCOMPO8)
-- [07. Python CSV Module in Hindi](https://www.youtube.com/watch?v=LoUByvD_N8Y)
-- [06. Python Pathlib Module in Hindi](https://www.youtube.com/watch?v=Wi881uqpMdE)
-- [08. Seaborn FacetGrid & PairGrid in Python](https://www.youtube.com/watch?v=CxAOOk3mbjE)
-- [08. Seaborn Heatmap Hindi](https://www.youtube.com/watch?v=0iSv_M5GkUc)
+<!-- YOUTUBE:START -->- [SQL 02      PrimaryKey](https://www.youtube.com/shorts/5glU3-L9HWU)
+- [02. SQL Basics in Hindi | Database, DBMS, Data Types, Primary Key, Foreign Key, Constraints |](https://www.youtube.com/watch?v=Nidu15eCsV8)
+- [01. SQL Full Course Syllabus in Hindi | Learn SQL Server  Data: SELECT, JOINs, Window Functions](https://www.youtube.com/watch?v=6mXCMCOMPO8)
+- [07. Python CSV Module in Hindi | csv.reader, writer, DictReader, DictWriter | File Handling](https://www.youtube.com/watch?v=LoUByvD_N8Y)
+- [NumPy Broadcasting in Python in Python Explained in 60 Seconds](https://www.youtube.com/shorts/aAPwClXHNJk)
 <!-- YOUTUBE:END -->
 
 ➡️ [See all videos](https://www.youtube.com/@CodeWithMunnaX/videos)
