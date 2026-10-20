@@ -1,89 +1,120 @@
-<h1 align="center">Hi, I'm Munna Kumar 👋</h1>
-<h3 align="center">Data Scientist & Full-Stack Developer · I teach Python, SQL & Data Science in Hindi as <a href="https://www.youtube.com/@CodeWithMunnaX">CodeWithMunnaX</a></h3>
+<p align="center">
+  <a href="https://codewithmunnax.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=6366F1&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Munna+Kumar+%F0%9F%91%8B;Data+Scientist+%26+Full-Stack+Developer;I+teach+Python%2C+SQL+%26+Data+Science+in+Hindi;Building+AI+products+with+Next.js+%2B+FastAPI" alt="Hi, I'm Munna Kumar - Data Scientist & Full-Stack Developer" />
+  </a>
+</p>
 
 <p align="center">
-  <a href="https://codewithmunnax.com"><img src="https://img.shields.io/badge/Website-codewithmunnax.com-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.youtube.com/@CodeWithMunnaX?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://www.linkedin.com/in/munna-kumar-93234b241"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/codewithmunnax"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://codewithmunnax.com"><img src="https://img.shields.io/badge/codewithmunnax.com-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.youtube.com/@CodeWithMunnaX?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.linkedin.com/in/munna-kumar-93234b241"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/codewithmunnax"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://codewithmunnax.com/#booking"><img src="https://img.shields.io/badge/Book_a_call-111827?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodeWithMunnaX&label=Profile%20views&color=6366f1&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/CodeWithMunnaX?label=Followers&style=flat&color=8b3dff" alt="Followers" />
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCr2O3k_PUWbJdDXc8pPCtZw?label=YouTube%20subscribers&style=flat&color=ff0033" alt="YouTube subscribers" />
 </p>
 
 ---
 
-### About me
+### 🙋 About me
 
-- 🧠 I build **AI and data products end to end**: from data cleaning and ML models to FastAPI backends and Next.js frontends.
-- 🎓 I run **[CodeWithMunnaX](https://codewithmunnax.com)**, a free learning platform with Hindi video courses, notes with live playgrounds, AI mind maps and certificates.
-- 📺 New Python, SQL and Data Science lessons on **[YouTube](https://www.youtube.com/@CodeWithMunnaX)** every week.
-- 📍 Mohali, Punjab, India. Open to freelance work and collaborations, [book a call](https://codewithmunnax.com/#booking).
+I build **AI and data products end to end**: data cleaning, ML models and LLM apps on the backend with **Python and FastAPI**, and fast, polished frontends with **Next.js**. I also run **[CodeWithMunnaX](https://codewithmunnax.com)**, a free learning platform where I teach Python, SQL and Data Science in Hindi.
 
-### Free courses (Hindi)
+```python
+class MunnaKumar:
+    role       = "Data Scientist & Full-Stack Developer"
+    location   = "Mohali, Punjab, India"
+    building   = ["CodeWithMunnaX learning platform", "AI agents", "RAG apps"]
+    teaching   = ["Python", "SQL Server", "NumPy", "Pandas", "Data Visualization"]
+    ask_me     = ["Machine Learning", "GenAI & RAG", "FastAPI", "Next.js", "SQL"]
+    open_to    = "Freelance projects & collaborations"
+```
 
-| Course | What you learn |
-| --- | --- |
-| [Python Full Course](https://codewithmunnax.com/courses/5) | Python from zero: data types, loops, functions, OOP basics |
-| [NumPy Full Course](https://codewithmunnax.com/courses/3) | Arrays, broadcasting, random, linear algebra for data science |
-| [Pandas Full Course](https://codewithmunnax.com/courses/6) | DataFrames, cleaning, groupby, merge and join |
-| [Matplotlib](https://codewithmunnax.com/courses/2) and [Seaborn](https://codewithmunnax.com/courses/9) | Data visualization from basic plots to heatmaps and pairplots |
-| [Python OOPs](https://codewithmunnax.com/courses/8) and [File Handling](https://codewithmunnax.com/courses/10) | Classes, inheritance, files, CSV, pathlib |
-| [SQL notes with live playground](https://codewithmunnax.com/notes/sql) | SQL Server from basics to window functions |
+### 🎓 Free courses in Hindi
 
-🗺️ Career roadmaps as mind maps: **[codewithmunnax.com/roadmap](https://codewithmunnax.com/roadmap)**
+<table>
+  <tr>
+    <td><a href="https://codewithmunnax.com/courses/5"><b>🐍 Python Full Course</b></a><br/><sub>From zero: data types, loops, functions, OOP</sub></td>
+    <td><a href="https://codewithmunnax.com/notes/sql"><b>🗄️ SQL Full Course</b></a><br/><sub>SQL Server basics to window functions, live playground</sub></td>
+    <td><a href="https://codewithmunnax.com/courses/3"><b>🔢 NumPy Full Course</b></a><br/><sub>Arrays, broadcasting, random, linear algebra</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://codewithmunnax.com/courses/6"><b>🐼 Pandas Full Course</b></a><br/><sub>DataFrames, cleaning, groupby, merge and join</sub></td>
+    <td><a href="https://codewithmunnax.com/courses/2"><b>📈 Matplotlib</b></a> · <a href="https://codewithmunnax.com/courses/9"><b>Seaborn</b></a><br/><sub>Plots, heatmaps, pairplots, FacetGrid</sub></td>
+    <td><a href="https://codewithmunnax.com/courses/8"><b>🧱 OOPs</b></a> · <a href="https://codewithmunnax.com/courses/10"><b>File Handling</b></a><br/><sub>Classes, inheritance, files, CSV, pathlib</sub></td>
+  </tr>
+</table>
 
-### Featured projects
+Every course has notes, practice, AI mind maps of each lesson and a free certificate. 🗺️ Career roadmaps for 14 domains: **[codewithmunnax.com/roadmap](https://codewithmunnax.com/roadmap)**
 
-| Project | Stack |
-| --- | --- |
-| **[QueryMind](https://github.com/CodeWithMunnaX/QueryMind-)**: AI analytics chat that turns plain-English questions into safe, read-only SQL with live charts | Next.js · FastAPI · LangChain · PostgreSQL |
-| **[Voxa AI](https://github.com/CodeWithMunnaX/voxa-multimodal-assistant)**: multimodal AI tutor with voice, document analysis and chat | Next.js · FastAPI · LLMs |
-| **[AI Collective](https://github.com/CodeWithMunnaX/ai-collective)**: multiple autonomous AI agents that collaborate on complex tasks | TypeScript · AI Agents |
-| **[AutoScan AI (ANPR)](https://github.com/CodeWithMunnaX/AutoScan-AI-Automatic-Number-Plate-Recognition-ANPR-)**: real-time number plate recognition from camera streams | Computer Vision · TypeScript |
-| **[Hospital Management System](https://github.com/CodeWithMunnaX/HMS)**: multi-role HMS with AI scans, e-prescriptions, telehealth and billing | Full Stack · RBAC |
-| **[Rentroo](https://github.com/CodeWithMunnaX/rentroo-car-marketplace)**: car rental marketplace for 25+ Indian cities | MERN |
-| **[ML Pipeline](https://github.com/CodeWithMunnaX/Machine-Learning-Pipeline)**: end-to-end MLOps with training, tracking and CI/CD deployment | Python · MLOps |
-| **[Python Data Science Mastery](https://github.com/CodeWithMunnaX/python-data-science-mastery)**: projects and notes for Python, NumPy, Pandas, Matplotlib | Jupyter |
+### 📺 Latest on YouTube
 
-### Tech stack
+<!-- YOUTUBE:START -->
+- [01. SQL Full Course Syllabus in Hindi](https://www.youtube.com/watch?v=6mXCMCOMPO8)
+- [07. Python CSV Module in Hindi](https://www.youtube.com/watch?v=LoUByvD_N8Y)
+- [06. Python Pathlib Module in Hindi](https://www.youtube.com/watch?v=Wi881uqpMdE)
+- [08. Seaborn FacetGrid & PairGrid in Python](https://www.youtube.com/watch?v=CxAOOk3mbjE)
+- [08. Seaborn Heatmap Hindi](https://www.youtube.com/watch?v=0iSv_M5GkUc)
+<!-- YOUTUBE:END -->
 
-**Data & AI**<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+➡️ [See all videos](https://www.youtube.com/@CodeWithMunnaX/videos)
 
-**Backend & Databases**<br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+### 🚀 Featured projects
 
-**Frontend**<br/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **[QueryMind](https://github.com/CodeWithMunnaX/QueryMind-)** | Ask questions in plain English, get safe read-only SQL, answers and live charts | Next.js · FastAPI · LangChain · PostgreSQL |
+| **[Voxa AI](https://github.com/CodeWithMunnaX/voxa-multimodal-assistant)** | Multimodal AI tutor with voice, document analysis and chat | Next.js · FastAPI · LLMs |
+| **[AI Collective](https://github.com/CodeWithMunnaX/ai-collective)** | Autonomous AI agents that collaborate on complex tasks | TypeScript · AI Agents |
+| **[AutoScan AI](https://github.com/CodeWithMunnaX/AutoScan-AI-Automatic-Number-Plate-Recognition-ANPR-)** | Real-time number plate recognition from camera streams | Computer Vision |
+| **[Hospital Management System](https://github.com/CodeWithMunnaX/HMS)** | Multi-role HMS with AI scans, e-prescriptions, telehealth and billing | Full Stack · RBAC |
+| **[Rentroo](https://github.com/CodeWithMunnaX/rentroo-car-marketplace)** | Car rental marketplace across 25+ Indian cities | MERN |
+| **[ML Pipeline](https://github.com/CodeWithMunnaX/Machine-Learning-Pipeline)** | End-to-end MLOps: training, tracking and CI/CD deployment | Python · MLOps |
+| **[Python Data Science Mastery](https://github.com/CodeWithMunnaX/python-data-science-mastery)** | Projects and notes for Python, NumPy, Pandas and Matplotlib | Jupyter |
 
-**Cloud & Tools**<br/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+### 🛠️ Tech stack
 
-### GitHub stats
+<p>
+  <b>Data & AI</b><br/>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow&theme=light" alt="Python, scikit-learn, PyTorch, TensorFlow" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+</p>
+<p>
+  <b>Backend & Databases</b><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mysql,mongodb,prisma,redis&theme=light" alt="FastAPI, Node.js, Express, PostgreSQL, MySQL, MongoDB, Prisma, Redis" />
+</p>
+<p>
+  <b>Frontend</b><br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,angular,html,css&theme=light" alt="Next.js, React, TypeScript, JavaScript, Tailwind, Angular, HTML, CSS" />
+</p>
+<p>
+  <b>Cloud & Tools</b><br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,git,github,githubactions,vercel&theme=light" alt="AWS, Docker, Nginx, Linux, Git, GitHub, GitHub Actions, Vercel" />
+</p>
+
+### 📊 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CodeWithMunnaX&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=4f46e5&icon_color=8b3dff" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithMunnaX&layout=compact&hide_border=true&langs_count=8&title_color=4f46e5" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CodeWithMunnaX&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=6366f1&icon_color=8b3dff&text_color=7d8590" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithMunnaX&layout=compact&langs_count=8&size_weight=0.4&count_weight=0.6&hide=html,css,shell,astro&theme=transparent&hide_border=true&title_color=6366f1&text_color=7d8590" alt="Top languages" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CodeWithMunnaX&theme=transparent&hide_border=true&ring=6366F1&fire=8B3DFF&currStreakLabel=6366F1&sideLabels=7d8590&dates=7d8590&currStreakNum=7d8590&sideNums=7d8590" alt="GitHub streak" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeWithMunnaX/CodeWithMunnaX/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/CodeWithMunnaX/CodeWithMunnaX/output/github-snake.svg" alt="Contribution snake" />
+</picture>
 
 ---
 
-<p align="center">⭐ If my courses or projects helped you, star a repo or subscribe on <a href="https://www.youtube.com/@CodeWithMunnaX">YouTube</a>, it really helps!</p>
+<p align="center">
+  ⭐ If my courses or projects helped you, star a repo or <a href="https://www.youtube.com/@CodeWithMunnaX?sub_confirmation=1">subscribe on YouTube</a>. It really helps!
+</p>
