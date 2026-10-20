@@ -53,11 +53,11 @@ Every course has notes, practice, AI mind maps of each lesson and a free certifi
 
 ### 📺 Latest on YouTube
 
-<!-- YOUTUBE:START -->- [SQL 02      PrimaryKey](https://www.youtube.com/shorts/5glU3-L9HWU)
+<!-- YOUTUBE:START -->- [SQL Relationships Explained in 1 Minute | One-to-One, One-to-Many, Many-to-Many | SQL Hindi #Shorts](https://www.youtube.com/shorts/CzLVMaKt4tI)
+- [SQL 02      PrimaryKey](https://www.youtube.com/shorts/5glU3-L9HWU)
 - [02. SQL Basics in Hindi | Database, DBMS, Data Types, Primary Key, Foreign Key, Constraints |](https://www.youtube.com/watch?v=Nidu15eCsV8)
 - [01. SQL Full Course Syllabus in Hindi | Learn SQL Server  Data: SELECT, JOINs, Window Functions](https://www.youtube.com/watch?v=6mXCMCOMPO8)
 - [07. Python CSV Module in Hindi | csv.reader, writer, DictReader, DictWriter | File Handling](https://www.youtube.com/watch?v=LoUByvD_N8Y)
-- [NumPy Broadcasting in Python in Python Explained in 60 Seconds](https://www.youtube.com/shorts/aAPwClXHNJk)
 <!-- YOUTUBE:END -->
 
 ➡️ [See all videos](https://www.youtube.com/@CodeWithMunnaX/videos)
