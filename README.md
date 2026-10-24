@@ -53,11 +53,11 @@ Every course has notes, practice, AI mind maps of each lesson and a free certifi
 
 ### 📺 Latest on YouTube
 
-<!-- YOUTUBE:START -->- [SQL GROUP BY in 50 Seconds | COUNT&lpar;*&rpar; per City, Aggregate Functions | SQL Hindi #Shorts](https://www.youtube.com/shorts/Ms15mtl7ILs)
+<!-- YOUTUBE:START -->- [SQL LIKE in 50 Seconds | % and _ Wildcards, Search Text Patterns | SQL Hindi #Shorts](https://www.youtube.com/shorts/csatBXZO9yY)
+- [SQL GROUP BY in 50 Seconds | COUNT&lpar;*&rpar; per City, Aggregate Functions | SQL Hindi #Shorts](https://www.youtube.com/shorts/Ms15mtl7ILs)
 - [03. SQL Queries in Hindi | WHERE, ORDER BY, GROUP BY, HAVING, LIKE, DISTINCT, TOP | SQL Course](https://www.youtube.com/watch?v=cuk0FLVVBhc)
 - [SQL ORDER BY in 50 Seconds | ASC vs DESC, Multiple Columns, NULL Sorting | SQL Hindi #Shorts](https://www.youtube.com/shorts/TJ2uWzwLmhU)
 - [SQL Relationships Explained in 1 Minute | One-to-One, One-to-Many, Many-to-Many | SQL Hindi #Shorts](https://www.youtube.com/shorts/CzLVMaKt4tI)
-- [SQL Basics in 50 Seconds | Database, Table, Rows, Columns &amp; Primary Key | SQL Hindi #Shorts](https://www.youtube.com/shorts/5glU3-L9HWU)
 <!-- YOUTUBE:END -->
 
 ➡️ [See all videos](https://www.youtube.com/@CodeWithMunnaX/videos)
