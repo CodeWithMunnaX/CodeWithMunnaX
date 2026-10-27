@@ -53,11 +53,11 @@ Every course has notes, practice, AI mind maps of each lesson and a free certifi
 
 ### 📺 Latest on YouTube
 
-<!-- YOUTUBE:START -->- [Top 10 T20I Scores in SQL | TOP + ORDER BY in 50 Seconds | SQL Hindi #Shorts](https://www.youtube.com/shorts/Pa9TwhxvZ8o)
+<!-- YOUTUBE:START -->- [How Many Zeros at the End of 100!? | Trailing Zeros Trick in 60 Sec | Aptitude Hindi #Shorts](https://www.youtube.com/shorts/yaEbj2_wUPY)
+- [Top 10 T20I Scores in SQL | TOP + ORDER BY in 50 Seconds | SQL Hindi #Shorts](https://www.youtube.com/shorts/Pa9TwhxvZ8o)
 - [04. SQL Practice Questions in Hindi | Cricket Dataset | WHERE, LIKE, GROUP BY, HAVING | SQL Course](https://www.youtube.com/watch?v=scR8uf9CY0g)
 - [SQL LIKE in 50 Seconds | % and _ Wildcards, Search Text Patterns | SQL Hindi #Shorts](https://www.youtube.com/shorts/csatBXZO9yY)
 - [SQL GROUP BY in 50 Seconds | COUNT&lpar;*&rpar; per City, Aggregate Functions | SQL Hindi #Shorts](https://www.youtube.com/shorts/Ms15mtl7ILs)
-- [03. SQL Queries in Hindi | WHERE, ORDER BY, GROUP BY, HAVING, LIKE, DISTINCT, TOP | SQL Course](https://www.youtube.com/watch?v=cuk0FLVVBhc)
 <!-- YOUTUBE:END -->
 
 ➡️ [See all videos](https://www.youtube.com/@CodeWithMunnaX/videos)
