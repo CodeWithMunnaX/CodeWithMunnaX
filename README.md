@@ -53,11 +53,11 @@ Every course has notes, practice, AI mind maps of each lesson and a free certifi
 
 ### 📺 Latest on YouTube
 
-<!-- YOUTUBE:START -->- [Is 97 a Prime Number? | Check Any Prime in 10 Sec | Square Root Trick | Aptitude Hindi #Shorts](https://www.youtube.com/shorts/ckIFiSKCA7k)
+<!-- YOUTUBE:START -->- [NumPy Random in Python | rand vs randn vs randint vs seed | NumPy Tutorial Hindi #Shorts](https://www.youtube.com/shorts/dfhMQ-GIIIM)
+- [Is 97 a Prime Number? | Check Any Prime in 10 Sec | Square Root Trick | Aptitude Hindi #Shorts](https://www.youtube.com/shorts/ckIFiSKCA7k)
 - [Is 887744 Divisible by 11? | Divisibility Rule of 11 in 5 Sec | Aptitude Hindi #Shorts](https://www.youtube.com/shorts/uz5N6anTbNw)
 - [How Many Zeros at the End of 100!? | Trailing Zeros Trick in 60 Sec | Aptitude Hindi #Shorts](https://www.youtube.com/shorts/yaEbj2_wUPY)
 - [Top 10 T20I Scores in SQL | TOP + ORDER BY in 50 Seconds | SQL Hindi #Shorts](https://www.youtube.com/shorts/Pa9TwhxvZ8o)
-- [04. SQL Practice Questions in Hindi | Cricket Dataset | WHERE, LIKE, GROUP BY, HAVING | SQL Course](https://www.youtube.com/watch?v=scR8uf9CY0g)
 <!-- YOUTUBE:END -->
 
 ➡️ [See all videos](https://www.youtube.com/@CodeWithMunnaX/videos)
