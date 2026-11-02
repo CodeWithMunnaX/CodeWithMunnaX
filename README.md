@@ -53,11 +53,11 @@ Every course has notes, practice, AI mind maps of each lesson and a free certifi
 
 ### 📺 Latest on YouTube
 
-<!-- YOUTUBE:START -->- [05. SQL DDL and DML in Hindi | CREATE, ALTER, DROP, TRUNCATE, INSERT, UPDATE, DELETE | SQL Course](https://www.youtube.com/watch?v=vU4UY0rq5Ug)
+<!-- YOUTUBE:START -->- [DROP vs TRUNCATE vs DELETE in SQL | Most Asked Interview Question | SQL Hindi #Shorts](https://www.youtube.com/shorts/1xougYKeWh0)
+- [05. SQL DDL and DML in Hindi | CREATE, ALTER, DROP, TRUNCATE, INSERT, UPDATE, DELETE | SQL Course](https://www.youtube.com/watch?v=vU4UY0rq5Ug)
 - [NumPy Random in Python | rand vs randn vs randint vs seed | NumPy Tutorial Hindi #Shorts](https://www.youtube.com/shorts/dfhMQ-GIIIM)
 - [Is 97 a Prime Number? | Check Any Prime in 10 Sec | Square Root Trick | Aptitude Hindi #Shorts](https://www.youtube.com/shorts/ckIFiSKCA7k)
 - [Is 887744 Divisible by 11? | Divisibility Rule of 11 in 5 Sec | Aptitude Hindi #Shorts](https://www.youtube.com/shorts/uz5N6anTbNw)
-- [How Many Zeros at the End of 100!? | Trailing Zeros Trick in 60 Sec | Aptitude Hindi #Shorts](https://www.youtube.com/shorts/yaEbj2_wUPY)
 <!-- YOUTUBE:END -->
 
 ➡️ [See all videos](https://www.youtube.com/@CodeWithMunnaX/videos)
