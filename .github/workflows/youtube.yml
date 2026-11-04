@@ -13,11 +13,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      # YouTube's RSS feed sometimes returns 404 for a few minutes; retry, and don't fail the run if it stays down
       - uses: gautamkrishnar/blog-post-workflow@v1
+        continue-on-error: true
         with:
           comment_tag_name: YOUTUBE
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCr2O3k_PUWbJdDXc8pPCtZw"
           max_post_count: 5
+          retry_count: 3
+          retry_wait_time: 60
           template: "- [$title]($url)$newline"
           commit_message: "Update latest YouTube videos"
           committer_username: CodeWithMunnaX
