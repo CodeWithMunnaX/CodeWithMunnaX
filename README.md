@@ -53,11 +53,11 @@ Every course has notes, practice, AI mind maps of each lesson and a free certifi
 
 ### 📺 Latest on YouTube
 
-<!-- YOUTUBE:START -->- [SQL AND vs OR vs NOT in Hindi | Truth Table + Real Query | SQL WHERE Part 2 #Shorts](https://www.youtube.com/shorts/2n9G100pKhs)
+<!-- YOUTUBE:START -->- [07. SQL Joins in Hindi | INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN with Examples | SQL Course](https://www.youtube.com/watch?v=GPthTh-ktI0)
+- [SQL BETWEEN in Hindi | Age and Date Range Filter | SQL WHERE Part 3 #Shorts](https://www.youtube.com/shorts/wijQ1Y2Rpgg)
+- [SQL AND vs OR vs NOT in Hindi | Truth Table + Real Query | SQL WHERE Part 2 #Shorts](https://www.youtube.com/shorts/2n9G100pKhs)
 - [06. SQL WHERE Clause in Hindi | Comparison, AND OR NOT, BETWEEN, IN, LIKE | SQL Course](https://www.youtube.com/watch?v=4QKOSvjKOH8)
 - [Copy Data From One Table to Another in SQL | INSERT INTO SELECT | SQL Hindi #Shorts](https://www.youtube.com/shorts/6KwtXHqC_qo)
-- [DROP vs TRUNCATE vs DELETE in SQL | Most Asked Interview Question | SQL Hindi #Shorts](https://www.youtube.com/shorts/1xougYKeWh0)
-- [05. SQL DDL and DML in Hindi | CREATE, ALTER, DROP, TRUNCATE, INSERT, UPDATE, DELETE | SQL Course](https://www.youtube.com/watch?v=vU4UY0rq5Ug)
 <!-- YOUTUBE:END -->
 
 ➡️ [See all videos](https://www.youtube.com/@CodeWithMunnaX/videos)
