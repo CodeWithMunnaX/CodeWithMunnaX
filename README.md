@@ -53,11 +53,11 @@ Every course has notes, practice, AI mind maps of each lesson and a free certifi
 
 ### 📺 Latest on YouTube
 
-<!-- YOUTUBE:START -->- [LEFT ANTI JOIN Live Query + Result in SQL Server | SQL in Hindi #Shorts](https://www.youtube.com/shorts/V2FEMB-Iweg)
+<!-- YOUTUBE:START -->- [LEFT JOIN vs RIGHT JOIN in SQL | Most Asked Interview Question | Live Query in Hindi #Shorts](https://www.youtube.com/shorts/WJnh5ZzGutM)
+- [09. SQL Joins Practice Questions in Hindi | LEFT, RIGHT, FULL &amp; Anti Join Queries | SQL Course](https://www.youtube.com/watch?v=7F9wWC3ysgE)
+- [LEFT ANTI JOIN Live Query + Result in SQL Server | SQL in Hindi #Shorts](https://www.youtube.com/shorts/V2FEMB-Iweg)
 - [FULL ANTI JOIN in SQL | Unmatched Rows from BOTH Tables | SQL in Hindi #Shorts](https://www.youtube.com/shorts/ArWqMyel9fg)
 - [08. Advanced SQL Joins in Hindi | Left Anti, Right Anti, Full Anti &amp; Cross Join | SQL Course](https://www.youtube.com/watch?v=P5I__GHL_Jg)
-- [07. SQL Joins in Hindi | INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN with Examples | SQL Course](https://www.youtube.com/watch?v=GPthTh-ktI0)
-- [SQL BETWEEN in Hindi | Age and Date Range Filter | SQL WHERE Part 3 #Shorts](https://www.youtube.com/shorts/wijQ1Y2Rpgg)
 <!-- YOUTUBE:END -->
 
 ➡️ [See all videos](https://www.youtube.com/@CodeWithMunnaX/videos)
