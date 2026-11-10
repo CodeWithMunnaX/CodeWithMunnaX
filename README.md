@@ -53,11 +53,11 @@ Every course has notes, practice, AI mind maps of each lesson and a free certifi
 
 ### 📺 Latest on YouTube
 
-<!-- YOUTUBE:START -->- [LEFT JOIN vs RIGHT JOIN in SQL | Most Asked Interview Question | Live Query in Hindi #Shorts](https://www.youtube.com/shorts/WJnh5ZzGutM)
+<!-- YOUTUBE:START -->- [Find Members Who NEVER Borrowed | LEFT ANTI JOIN in SQL | SQL Interview Question #Shorts](https://www.youtube.com/shorts/1t8CbYAivaw)
+- [CROSS JOIN in SQL | m x n Rows | Live Query + Result | SQL Interview in Hindi #Shorts](https://www.youtube.com/shorts/uK6mLhnHBQ8)
+- [LEFT JOIN vs RIGHT JOIN in SQL | Most Asked Interview Question | Live Query in Hindi #Shorts](https://www.youtube.com/shorts/WJnh5ZzGutM)
 - [09. SQL Joins Practice Questions in Hindi | LEFT, RIGHT, FULL &amp; Anti Join Queries | SQL Course](https://www.youtube.com/watch?v=7F9wWC3ysgE)
 - [LEFT ANTI JOIN Live Query + Result in SQL Server | SQL in Hindi #Shorts](https://www.youtube.com/shorts/V2FEMB-Iweg)
-- [FULL ANTI JOIN in SQL | Unmatched Rows from BOTH Tables | SQL in Hindi #Shorts](https://www.youtube.com/shorts/ArWqMyel9fg)
-- [08. Advanced SQL Joins in Hindi | Left Anti, Right Anti, Full Anti &amp; Cross Join | SQL Course](https://www.youtube.com/watch?v=P5I__GHL_Jg)
 <!-- YOUTUBE:END -->
 
 ➡️ [See all videos](https://www.youtube.com/@CodeWithMunnaX/videos)
