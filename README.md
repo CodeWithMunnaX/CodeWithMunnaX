@@ -53,11 +53,11 @@ Every course has notes, practice, AI mind maps of each lesson and a free certifi
 
 ### 📺 Latest on YouTube
 
-<!-- YOUTUBE:START -->- [Make Your Matplotlib Chart PRO | Title, Labels, Legend, Grid | Python in Hindi #Shorts](https://www.youtube.com/shorts/1TOYMCextl0)
+<!-- YOUTUBE:START -->- [UNION in SQL Removes Duplicates! | Combine Two Tables | SQL Interview Question #Shorts](https://www.youtube.com/shorts/vEHEEva5j7k)
+- [Make Your Matplotlib Chart PRO | Title, Labels, Legend, Grid | Python in Hindi #Shorts](https://www.youtube.com/shorts/1TOYMCextl0)
 - [EXCEPT in SQL = A minus B | Find Rows NOT in Another Table | SQL Hindi #Shorts](https://www.youtube.com/shorts/pD56nOvSaNA)
 - [10. SQL Set Operations in Hindi | UNION, UNION ALL, INTERSECT, EXCEPT with Live Queries | SQL Course](https://www.youtube.com/watch?v=pEmjDQg9m24)
 - [Find Members Who NEVER Borrowed | LEFT ANTI JOIN in SQL | SQL Interview Question #Shorts](https://www.youtube.com/shorts/1t8CbYAivaw)
-- [CROSS JOIN in SQL | m x n Rows | Live Query + Result | SQL Interview in Hindi #Shorts](https://www.youtube.com/shorts/uK6mLhnHBQ8)
 <!-- YOUTUBE:END -->
 
 ➡️ [See all videos](https://www.youtube.com/@CodeWithMunnaX/videos)
