@@ -53,11 +53,11 @@ Every course has notes, practice, AI mind maps of each lesson and a free certifi
 
 ### 📺 Latest on YouTube
 
-<!-- YOUTUBE:START -->- [Python String Indexing: x[-1] = ? | Negative Indexing Explained #Shorts](https://www.youtube.com/shorts/23j3JvTmEc0)
+<!-- YOUTUBE:START -->- [WHERE vs HAVING in SQL | Difference with Example | SQL Interview Question #Shorts](https://www.youtube.com/shorts/ntQYbuahj90)
+- [Python String Indexing: x[-1] = ? | Negative Indexing Explained #Shorts](https://www.youtube.com/shorts/23j3JvTmEc0)
 - [UNION vs UNION ALL in SQL | Duplicates Kept + Faster | SQL Interview Question #Shorts](https://www.youtube.com/shorts/jkmnA8rDWOk)
 - [SQL JOINs in 25 Seconds | INNER, LEFT &amp; ANTI JOIN with 2 Tables | SQL in Hindi #Shorts](https://www.youtube.com/shorts/aZG0vUM56bI)
 - [UNION in SQL Removes Duplicates! | Combine Two Tables | SQL Interview Question #Shorts](https://www.youtube.com/shorts/vEHEEva5j7k)
-- [Make Your Matplotlib Chart PRO | Title, Labels, Legend, Grid | Python in Hindi #Shorts](https://www.youtube.com/shorts/1TOYMCextl0)
 <!-- YOUTUBE:END -->
 
 ➡️ [See all videos](https://www.youtube.com/@CodeWithMunnaX/videos)
